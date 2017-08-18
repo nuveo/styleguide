@@ -17,3 +17,7 @@ Quando sua atualização envolve atualização e/ou adicionar novo *package* dev
 1. vendor
 
 Adicionar tudo do mesmo **PR** fica impossível fazer code review.
+
+### Packages
+
+Package deve ter nome no singular (não no plural)
